@@ -109,9 +109,9 @@ def process_nc(args):
         
         counter = 1
         ra = 0
-        ylist = []
-        df_list = []
-        df_year = []
+        ylist = list()
+        df_list = list()
+        df_year = list()
         
         # Appending the years/days to a list, keeping leap years in mind
         for year in xrange(first_year, last_year + 1):
