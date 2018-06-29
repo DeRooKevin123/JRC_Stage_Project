@@ -1,10 +1,10 @@
 # I. General Information
 
-**Created:** 29/6/2018
-**Author:** Kevin de Roo (Aged 16)
-**Subject:** Python 2.7 (Graphs)
-**Software used:** Spyder, Jupyter Notebook, Anaconda Navigator, Anaconda Prompt, ArcMap
-**Libraries used:** Pandas, Numpy, Seaborn, Matplotlib, netCDF4
+- **Created:** 29/6/2018
+- **Author:** Kevin de Roo (Aged 16)
+- **Subject:** Python 2.7 (Graphs)
+- **Software used:** Spyder, Jupyter Notebook, Anaconda Navigator, Anaconda Prompt, ArcMap
+- **Libraries used:** Pandas, Numpy, Seaborn, Matplotlib, netCDF4
 
 # II. Execution Of The File
 
